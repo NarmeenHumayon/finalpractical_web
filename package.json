@@ -6,8 +6,12 @@
     "axios": "^1.7.9",
     "bcryptjs": "^2.4.3",
     "bcryptjs-react": "^2.4.6",
+    "cors": "^2.8.5",
     "cra-template": "1.2.0",
     "express": "^4.21.2",
+    "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.1"
