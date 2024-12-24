@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^1.7.9",
+    "bcryptjs": "^2.4.3",
+    "bcryptjs-react": "^2.4.6",
     "cra-template": "1.2.0",
+    "express": "^4.21.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,7 +38,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
   "author": "NarmeenHumayon",
   "license": "ISC",
   "repository": {
@@ -44,5 +47,8 @@
   "bugs": {
     "url": "https://github.com/NarmeenHumayon/finalpractical_web/issues"
   },
-  "homepage": "https://github.com/NarmeenHumayon/finalpractical_web#readme"
+  "homepage": "https://github.com/NarmeenHumayon/finalpractical_web#readme",
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
 }
